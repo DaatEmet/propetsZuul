@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.eureka.enabled'"
+  },
+  {
+    "name": "order-service.ribbon.ReadTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'order-service.ribbon.ReadTimeout'"
+  },
+  {
+    "name": "cloudkarafka.topicSearch",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudkarafka.topicSearch'"
+  },
+  {
+    "name": "cloudkarafka.topicLogger",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudkarafka.topicLogger'"
+  }
+]}
